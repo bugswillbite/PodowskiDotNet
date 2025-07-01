@@ -113,7 +113,7 @@ nav li
 }
 @media (max-width: 560px)
 {
-    .pge-wrapper { padding-left: 40px; width: 100%;}   
+    .pge-wrapper {width: 100%;}   
     .side-margin
     {
         position: relative;
