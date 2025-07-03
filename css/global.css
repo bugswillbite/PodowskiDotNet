@@ -1,0 +1,26 @@
+div.footer
+{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+div.footer a
+{
+    text-decoration: none;
+    list-style-type: none;
+}
+div.footer p
+{
+    flex: 0 1 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    height: 0;
+    margin-top: 10px;
+    font-weight: 700;
+    color: yellow;
+    -webkit-text-stroke: 1.5px black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
