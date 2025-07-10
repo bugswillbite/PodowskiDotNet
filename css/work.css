@@ -366,10 +366,10 @@ body
 .webDesign
 {
     position: absolute;
-    top: 111.5px;
-    left: 53%;
+    top: 137.5px;
+    left: 45%;
     transform: translateX(-50%);
-	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
     font-size: 15px; 
     font-weight: bold;
     color: rgb(255, 255, 255);
