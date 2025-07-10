@@ -359,15 +359,15 @@ body
 .webDes
 {
     position: absolute;
-    top: 175.5px;
-    left: 53%;
+    top: 150.5px;
+    left: 48%;
     max-width: 80px;
 }
 .webDesign
 {
     position: absolute;
-    top: 137.5px;
-    left: 45%;
+    top: 219.5px;
+    left: 56%;
     transform: translateX(-50%);
     font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
     font-size: 15px; 
