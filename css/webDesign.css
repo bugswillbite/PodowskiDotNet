@@ -115,14 +115,14 @@ nav li
     flex: 0 1 100%;
     width: 100%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
     color: black;
     padding: 5px 15px;
 }
 .inner-wrapper p .titleBld
 {
-    font-size: 25px;
+    font-size: 20px;
 }
 .img-wrapper
 {
