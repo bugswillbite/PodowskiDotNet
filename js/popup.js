@@ -50,7 +50,7 @@ document.getElementById("openPopup4").onclick = function ()
   (
     "https://bugswillbite.itch.io/mysa",
     "mysa",
-    "width=800,height=700,top=220,left=600,resizable=yes,scrollbars=yes"
+    "width=1300,height=700,top=220,left=600,resizable=yes,scrollbars=yes"
   );
 };
 
