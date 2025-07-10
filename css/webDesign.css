@@ -120,6 +120,10 @@ nav li
     color: black;
     padding: 5px 15px;
 }
+.inner-wrapper p .titleBld
+{
+    font-size: 25px;
+}
 .img-wrapper
 {
     border: 3px solid black;
